@@ -4,4 +4,4 @@ allanpk716/chinesesubfinder
 linuxserver/transmission
 linuxserver/qbittorrent
 szzhoubanxian/reseed-puppy
-openwrt
+sulinggg/openwrt
