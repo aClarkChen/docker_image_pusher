@@ -4,4 +4,4 @@ allanpk716/chinesesubfinder
 linuxserver/transmission
 linuxserver/qbittorrent
 szzhoubanxian/reseed-puppy
-sulinggg/openwrt
+sulinggg/openwrt:x86_64 /sbin/init
