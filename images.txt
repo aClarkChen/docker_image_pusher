@@ -1,6 +1,6 @@
 jxxghp/moviepilot-v2
 linuxserver/plex
-linuxserver/transmission
+linuxserver/transmission:4.0.5
 linuxserver/qbittorrent
 szzhoubanxian/reseed-puppy
 iyuucn/iyuuplus-dev
