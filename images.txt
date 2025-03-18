@@ -1,7 +1,6 @@
-adguard/adguardhome
-iyuucn/iyuuplus-dev
-allanpk716/chinesesubfinder
+jxxghp/moviepilot-v2
+linuxserver/plex
 linuxserver/transmission
 linuxserver/qbittorrent
 szzhoubanxian/reseed-puppy
-sulinggg/openwrt:x86_64
+iyuucn/iyuuplus-dev
